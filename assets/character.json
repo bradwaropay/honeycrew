@@ -1,0 +1,53 @@
+{
+  "role": [
+    "Muscle",
+    "Brains",
+    "Driver",
+    "Hacker",
+    "Thief",
+    "Face"
+  ],
+  "descriptor": [
+    "Rookie",
+    "Washed-Up",
+    "Retired",
+    "Unhinged",
+    "Slick",
+    "Incompetent"
+  ],
+  "bear": [
+    {
+      "type": "Grizzly",
+      "specialty": "Terror"
+    },
+    {
+      "type": "Polar",
+      "specialty": "Swimming"
+    },
+    {
+      "type": "Panda",
+      "specialty": "Eating"
+    },
+    {
+      "type": "Black",
+      "specialty": "Climbing"
+    },
+    {
+      "type": "Sun",
+      "specialty": "Tracking"
+    },
+    {
+      "type": "Honey Badger",
+      "specialty": "Carnage"
+    }
+  ],
+  "hat": [
+    "Trilby",
+    "Top Hat",
+    "Bowler",
+    "Flat-Cap",
+    "Cowboy Hat",
+    "Fez",
+    "Crown"
+  ]
+}
